@@ -1,3 +1,7 @@
+html, body {
+  width: auto !important;
+  overflow-x: hidden !important; }
+
 .light-text {
   color: #bfc3f2; }
 
