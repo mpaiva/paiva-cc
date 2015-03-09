@@ -257,7 +257,7 @@ blockquote {
   -ms-transform: rotate(45deg);
   -moz-transform: rotate(45deg);
   -o-transform: rotate(45deg);
-  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.8); }
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.25); }
 
 #forkongithub a:hover {
   background: #04c754;
