@@ -110,7 +110,7 @@ p.side a {
 .facts-wrapper p {
   margin-top: -10px;
   padding: 16px 0;
-  font-size: 80%;
+  font-size: 100%;
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
   font-weight: 300;
   line-height: 180%;
@@ -284,7 +284,10 @@ blockquote {
     margin-left: 0; }
   .built-with img {
     margin: 0px;
-    width: 24%; } }
+    width: 24%; }
+  #main-panel .card-panel {
+    margin: 10px 0px 30px;
+    color: #333; } }
 
 @media (min-width: 600px) and (max-width: 991px) {
   #side-nav {
