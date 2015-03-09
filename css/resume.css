@@ -17,15 +17,21 @@
   background: #04c754; }
 
 .primary-nav:hover, .btn-large:hover {
-  background: #fb38ab; }
+  background: #04c754;
+  color: white; }
 
 .primary-nav i, .btn-large i {
   color: #1A237E;
   color: white; }
 
 .primary-nav:hover i, .btn-large:hover i {
-  color: contrast-color(#e5dc81);
-  color: navy; }
+  color: contrast-color(#e5dc81); }
+
+.floating-download {
+  background-color: red; }
+
+.floating-download:hover {
+  background-color: #04c754; }
 
 /* FIXING LEFT COLUMN 100% HEIGHT */
 /* So 100% means 100% */
