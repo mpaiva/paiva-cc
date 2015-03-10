@@ -15,7 +15,7 @@ html, body {
   background: #1A237E; }
 
 .primary-dark {
-  background: #111754; }
+  background: black; }
 
 .primary-nav {
   background: #04c754; }
@@ -59,7 +59,7 @@ main .row, footer.page-footer {
   margin-bottom: 0; }
 
 footer.page-footer {
-  background-color: #111754; }
+  background-color: black; }
 
 a {
   color: #1A237E; }
@@ -157,6 +157,9 @@ p.side a {
 .progress-fg, .progress-bg {
   height: 2px; }
 
+.progress-bg {
+  background: black; }
+
 /* MAIN PANEL AREA */
 #main-panel .card-panel {
   margin: 30px;
@@ -205,6 +208,10 @@ blockquote {
   margin: 20px 0;
   padding-left: 0.75rem;
   border-left: 3px solid #aab0ed; }
+
+.work-company {
+  font-weight: 500;
+  color: #666666; }
 
 .built-with a {
   margin: 0; }
