@@ -1,3 +1,6 @@
+body {
+  overflow-x: hidden; }
+
 .light-text {
   color: #bfc3f2; }
 
@@ -230,7 +233,7 @@ blockquote {
   margin: 30px 0; }
 
 #forkongithub {
-  position: fixed;
+  position: absolute;
   display: block;
   top: -30px;
   right: 0;
