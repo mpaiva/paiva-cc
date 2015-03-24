@@ -125,6 +125,13 @@ p.side a {
 .fact-icon {
   padding-right: 0; }
 
+.facts-skills-wrapper li, .timeline-graph {
+  -ms-filter: "progid:DXImageTransform@mixin Microsoft@mixin Alpha(Opacity=${iefactor})";
+  filter: "alpha(opacity=(${iefactor}))";
+  -moz-opacity: 0;
+  -khtml-opacity: 0;
+  opacity: 0; }
+
 .col.s9.facts-content-col {
   padding-left: 0; }
 
